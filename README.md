@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="ahmed-ibraheem-65771210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ahmed-ibraheem-65771210/](https://www.linkedin.com/in/ahmed-ibraheem-65771210/)" height="30" width="40" /></a>
+<a href="[ahmed-ibraheem-65771210/](https://www.linkedin.com/in/ahmed-ibraheem-65771210/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ahmed-ibraheem-65771210/](https://www.linkedin.com/in/ahmed-ibraheem-65771210/)" height="30" width="40" /></a>
 <a href="[https://fb.com/https://www.facebook.com/profile.php?id=100003833855562](https://www.facebook.com/profile.php?id=100003833855562)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/profile.php?id=100003833855562](https://www.facebook.com/profile.php?id=100003833855562)" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCOCjOF0RNtQgyxw_r_HYzaQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCOCjOF0RNtQgyxw_r_HYzaQ" height="30" width="40" /></a>
 </p>
